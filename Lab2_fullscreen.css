@@ -13,7 +13,7 @@ video {
     z-index: -100;
     -webkit-transform: translateX(-50%) translateY(-50%);
             transform: translateX(-50%) translateY(-50%);
- background: url('https://sites.google.com/site/konoplevmedia/screenshot.png') no-repeat;
+ background: url('https://rawcdn.githack.com/Viktorrrrriia/SMI_Lab2/7437989538c99815dada61c2cf7419c4245d6cb5/Acoustics_screen.png') no-repeat;
   background-size: cover;
   transition: 1s opacity;
 }
